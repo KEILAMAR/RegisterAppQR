@@ -1,0 +1,2 @@
+# RegisterAppQR
+ App codigo QR
